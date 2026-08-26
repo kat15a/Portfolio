@@ -13,7 +13,7 @@ B.Tech CSE (AI) student passionate about:
 - Backend Engineering
 - REST APIs
 - Data Structures & Algorithms
-- Problem Solving
+- Problems Solving
 
 ## 🛠️ Tech Stack
 
