@@ -1,6 +1,6 @@
 # 🌐 Aadrika Katiyar Portfolio
 
-Personal portfolio website showcasing my projects, skills, achievements, and technical background.
+Personal portfolio website showcasing my projects, skills, achievement, and technical background.
 
 ## 🚀 Live Website
 
